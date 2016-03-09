@@ -1,0 +1,22 @@
+{
+  "name": "irasutoya-trend",
+  "version": "0.0.1",
+  "description": "いらすとやのトレンド画像10件を取得",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "got": "^6.2.0"
+  },
+  "devDependencies": {
+    "xo": "*",
+    "ava": "^0.12.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "author": "akameco <akameco.t@gmail.com>",
+  "license": "MIT",
+  "xo": {
+    "space": true
+  }
+}
