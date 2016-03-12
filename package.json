@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "いらすとやのトレンド画像10件を取得",
   "main": "index.js",
+  "files": [
+    "index.js"
+  ],
   "dependencies": {
     "cheerio": "^0.20.0",
     "got": "^6.2.0"
