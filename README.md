@@ -1,4 +1,4 @@
-# irasutoya-trend
+#  irasutoya-trend [![Build Status](https://travis-ci.org/akameco/irasutoya-trend.svg?branch=master)](https://travis-ci.org/akameco/irasutoya-trend)
 
 > いらすとやのトレンド画像10件を取得
 
